@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The command-line client for uidini, the interactive UI/UX design tool.",
   "homepage": "https://uidini.com",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://dl.uidini.com/download/0.1.0/uidini-win32-x64.exe",
-      "hash": "sha256:502377a2ca33ac16b261ec970f994c2956de651555368af9458d25f98241317c",
+      "url": "https://dl.uidini.com/download/0.1.1/uidini-win32-x64.exe",
+      "hash": "sha256:c258de4b6e01c7239d6f48804725da7b48ef03f9da64e1dd82444582fef78a96",
       "bin": [
         [
           "uidini-win32-x64.exe",
